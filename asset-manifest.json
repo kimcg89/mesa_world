@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mesa_world/static/css/main.23eb6471.css",
+    "main.js": "/mesa_world/static/js/main.16428091.js",
+    "static/media/fa-solid-900.ttf": "/mesa_world/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/mesa_world/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/mesa_world/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/mesa_world/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/mini room.png": "/mesa_world/static/media/mini room.578c188a5b6528765cb9.png",
+    "static/media/fa-regular-400.ttf": "/mesa_world/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/mesa_world/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/mesa_world/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/mesa_world/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/mesa_world/index.html",
+    "main.23eb6471.css.map": "/mesa_world/static/css/main.23eb6471.css.map",
+    "main.16428091.js.map": "/mesa_world/static/js/main.16428091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23eb6471.css",
+    "static/js/main.16428091.js"
+  ]
+}
