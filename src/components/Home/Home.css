@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+
+.Home_wrapper {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Home_wrapper__header{
+  width: 100%;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.content__title{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title{
+  color: #55b2e4;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.subtitle{
+  font-size: 8px;
+  padding-left: 5px;
+}
+
+.divideLine{
+  width: 100%;
+  border-top: 1px solid gray;
+}
+
+.content__body{
+  font-size: 11px;
+  color: gray;
+}
+
+.Home_wrapper__body{
+  width: 100%;
+  height: 270px;
+  /* mt 말고 아래로 배치 할 수 있도록 해야 함 */
+  margin-top: 60px;
+}
+
+.video__body{
+  background: center no-repeat url(../../../public/image/mini\ room.png);
+  background-size: contain;
+  width: 100%;
+  height: 240px;
+  margin: 15px 0 0 0;
+}
