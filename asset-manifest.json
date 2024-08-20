@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mesa_world/static/css/main.23eb6471.css",
-    "main.js": "/mesa_world/static/js/main.16428091.js",
+    "main.css": "/mesa_world/static/css/main.1a538c5f.css",
+    "main.js": "/mesa_world/static/js/main.a189b172.js",
     "static/media/fa-solid-900.ttf": "/mesa_world/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/mesa_world/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/mesa_world/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -12,11 +12,11 @@
     "static/media/fa-v4compatibility.ttf": "/mesa_world/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/mesa_world/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/mesa_world/index.html",
-    "main.23eb6471.css.map": "/mesa_world/static/css/main.23eb6471.css.map",
-    "main.16428091.js.map": "/mesa_world/static/js/main.16428091.js.map"
+    "main.1a538c5f.css.map": "/mesa_world/static/css/main.1a538c5f.css.map",
+    "main.a189b172.js.map": "/mesa_world/static/js/main.a189b172.js.map"
   },
   "entrypoints": [
-    "static/css/main.23eb6471.css",
-    "static/js/main.16428091.js"
+    "static/css/main.1a538c5f.css",
+    "static/js/main.a189b172.js"
   ]
 }
