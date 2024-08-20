@@ -13,7 +13,7 @@ const Jukebox = () => {
           <div className="albumWrapper__item">
             <img
               className="album-thumbnail"
-              src="/image/jukebox01.png"
+              src={process.env.PUBLIC_URL + '/image/jukebox01.png'}
               alt=""
             />
             <div className="album-songtitle">Y(Please Tell Me Why)</div>
@@ -22,7 +22,7 @@ const Jukebox = () => {
           <div className="albumWrapper__item">
             <img
               className="album-thumbnail"
-              src="/image/jukebox02.png"
+              src={process.env.PUBLIC_URL + '/image/jukebox02.png'}
               alt=""
             />
             <div className="album-songtitle">눈의 꽃</div>
@@ -31,7 +31,7 @@ const Jukebox = () => {
           <div className="albumWrapper__item">
             <img
               className="album-thumbnail"
-              src="/image/jukebox03.png"
+              src={process.env.PUBLIC_URL + '/image/jukebox03.png'}
               alt=""
             />
             <div className="album-songtitle">사랑했나봐</div>

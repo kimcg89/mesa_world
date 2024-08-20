@@ -10,7 +10,7 @@
 body {
   margin: auto;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
@@ -174,11 +174,10 @@ iframe{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-top: 50px;
-  /* position: absolute; */
+  position: absolute;
 
-  /* left: 774px; */
-  /* top: 310px; */
+  left: 774px;
+  top: 310px;
 }
 
 .navigation__item{

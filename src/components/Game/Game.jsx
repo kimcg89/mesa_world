@@ -50,7 +50,7 @@ const Game = () => {
         <div className="divideLine"></div>
       </div>
       <div className="game__container">
-        <img src="/image/word.png" alt="" />
+        <img src={process.env.PUBLIC_URL + "/image/word.png"} alt="" />
         <div className="game__title">끝말잇기</div>
         <div className="game__subtitle">
           {/* 제시어 : <span id="word">뉴비즈코드</span> */}
@@ -76,7 +76,7 @@ const Game = () => {
         </div>
       </div>
       <div className="game__container">
-        <img src="/image/lotto.png" alt="" />
+        <img src={process.env.PUBLIC_URL + "/image/lotto.png"} alt="" />
         <div className="game__title">LOTTO</div>
         <div className="game__subtitle">버튼을 누르세요</div>
         <div className="game__lotto__number">
