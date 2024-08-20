@@ -37,15 +37,15 @@ const Index = () => {
               <div className="left__body__profile">
                 <div className="profile__detail">
                   <i className="fa-regular fa-face-laugh-wink"></i>
-                  이름
+                  홍길동
                 </div>
                 <div className="profile__detail">
                   <i className="fa-solid fa-phone"></i>
-                  phone
+                  010-1234-5678
                 </div>
                 <div className="profile__detail">
                   <i className="fa-solid fa-envelope"></i>
-                  E-mail
+                  hdhong@mesa.kr
                 </div>
                 <div className="profile__detail">
                   <i className="fa-solid fa-star"></i>

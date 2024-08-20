@@ -3,7 +3,7 @@ import "./Game.css";
 
 const Game = () => {
 
-  const [currentWord, setCurrentWord] = useState("뉴비즈코드");
+  const [currentWord, setCurrentWord] = useState("매사");
   const [result, setResult] = useState("");
   const [lottoNumbers, setLottoNumbers] = useState([0, 0, 0, 0, 0, 0]); // 초기 로또 번호 상태
   const inputRef = useRef(null);
